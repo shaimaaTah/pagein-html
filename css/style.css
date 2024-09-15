@@ -1,18 +1,5 @@
 .header{
    text-align: center; 
-   height: 550px;
-   background-color: azure;
   
-}
-.space{
-   height: 100px;
-}
-.f1{
-   float: left;
-   width: 33%;
-}
-
-.clear{
-   clear: left;
 }
 
